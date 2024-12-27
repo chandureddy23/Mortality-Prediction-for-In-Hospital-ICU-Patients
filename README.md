@@ -68,10 +68,10 @@ The project utilizes data from the **PhysioNet Challenge 2012**, focusing on the
 
 ## Results
 
-| Model         | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
-|---------------|----------|-----------|--------|----------|---------|
-| **ANN**       | 93%      | 88%       | 95%    | 90%      | xx%     |
-| **XGBoost**   | 95%      | 100%      | 92%    | 96%      | xx%     |
+| Model         | Accuracy | Precision | Recall | F1-Score | 
+|---------------|----------|-----------|--------|----------|
+| **ANN**       | 93%      | 88%       | 95%    | 90%      |
+| **XGBoost**   | 95%      | 100%      | 92%    | 96%      |
 
 - **Observations:**
   - XGBoost outperformed in precision and interpretability.
